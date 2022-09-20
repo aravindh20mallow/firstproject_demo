@@ -1,4 +1,4 @@
 print("dkfhksdhfdkhfkdhf")
-a,b=2,9
+a,b=0
 print(a,b)
 print(a+b)
